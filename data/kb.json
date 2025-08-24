@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "name": "Ada Lovelace",
+      "summary": "Ada Lovelace was a 19th-century mathematician regarded as an early computing pioneer for her work on Charles Babbage's Analytical Engine."
+    },
+    {
+      "name": "Alan Turing",
+      "summary": "Alan Turing was a mathematician and logician, widely considered to be the father of theoretical computer science and artificial intelligence."
+    },
+    {
+      "name": "Ada Lovelace (Query)",
+      "summary": "Ada Lovelace is often recognized as the first computer programmer because she wrote an algorithm for Charles Babbage’s Analytical Engine in the 1800s."
+    },
+    {
+      "name": "Quantum Computing (Simple Explanation)",
+      "summary": "Quantum computing uses quantum bits (qubits) instead of regular bits. Unlike bits which can be 0 or 1, qubits can be both at the same time, allowing quantum computers to solve some problems much faster than classical computers."
+    },
+    {
+      "name": "Isaac Newton",
+      "summary": "Sir Isaac Newton was a 17th-century English mathematician, physicist, and astronomer. He is best known for formulating the laws of motion and universal gravitation."
+    },
+    {
+      "name": "John Cena",
+      "summary": "John Cena is an American professional wrestler, actor, and television host."
+    },
+    {
+      "name": "Blood Cancer Awareness",
+      "summary": "Blood cancer symptoms can include fatigue, frequent infections, unexplained weight loss, easy bruising or bleeding, and swollen lymph nodes. Only medical tests (like blood tests or biopsies) can confirm the diagnosis."
+    }
+  ]
+}
